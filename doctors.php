@@ -8,9 +8,10 @@ include 'header.php';
 			<div class="row justify-content-center">
 				<div class="col-lg-7">
 					<div class="main_title">
-						<h2>Medicare Popular Hospitalss</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-							magna aliqua.</p>
+						<h2>Pppopular Doctors Around You</h2>
+						<p>
+							Give reviews about doctors, and comment on their works.
+						</p>
 					</div>
 				</div>
 			</div>
