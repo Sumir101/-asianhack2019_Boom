@@ -60,6 +60,9 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
+
+
+
 					</button>
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
@@ -95,4 +98,4 @@
 			</nav>
 		</div>
 	</header>
-	<!--================ End Header Menu Area =================-->
+	<!--================ End Header Menu Area manoj =================-->
