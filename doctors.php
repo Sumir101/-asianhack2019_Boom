@@ -8,7 +8,7 @@ include 'header.php';
 			<div class="row justify-content-center">
 				<div class="col-lg-7">
 					<div class="main_title">
-						<h2>Pppopular Doctors Around You</h2>
+						<h2>Popular Doctors Around You</h2>
 						<p>
 							Give reviews about doctors, and comment on their works.
 						</p>
@@ -20,7 +20,7 @@ include 'header.php';
 				<div class="col-lg-3 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img src="img/team/member1.png" alt="">
+							<img src="img/team/member1.jpg" alt="">
 						</div>
 						<div class="author_decs">
 							<div class="social_icons">
@@ -28,9 +28,10 @@ include 'header.php';
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
-							<h4>Ethel Davis</h4>
-							<p class="profession">Sr. Faculty Data Science</p>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
+							<h4>Dr. Dipak Kumar Aryal</h4>
+							<p class="profession">MD (Ukrain), MD (Australia)</p>
+							<p><b>Specialities :-</b></p><p>
+							Consultant Dermatologist & Venerologist</p>
 						</div>
 					</div>
 				</div>
@@ -38,7 +39,7 @@ include 'header.php';
 				<div class="col-lg-3 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img src="img/team/member2.png" alt="">
+							<img src="img/team/member2.jpg" alt="">
 						</div>
 						<div class="author_decs">
 							<div class="social_icons">
@@ -46,9 +47,10 @@ include 'header.php';
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
-							<h4>Rodney Cooper</h4>
-							<p class="profession">Sr. Faculty Data Science</p>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
+							<h4>Dr.Sudip Parajuli</h4>
+							<p class="profession"> MBBS, MD</p>
+							<p><b>Specialities :-</b><br>
+							Dermatologist, Venereologist, Leprologist & Dermatosurgeon</p>
 						</div>
 					</div>
 				</div>
@@ -56,7 +58,7 @@ include 'header.php';
 				<div class="col-lg-3 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img src="img/team/member3.png" alt="">
+							<img src="img/team/member3.jpg" alt="">
 						</div>
 						<div class="author_decs">
 							<div class="social_icons">
@@ -64,9 +66,9 @@ include 'header.php';
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
-							<h4>Dane Walker</h4>
-							<p class="profession">Sr. Faculty Data Science</p>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
+							<h4>Dr.Binod Bijukachhe</h4>
+							<p class="profession">MBBS, Bangladesh</p>
+							<p> <b>Specialities :-</b>  Orthopedics & Traumatology</p>
 						</div>
 					</div>
 				</div>
@@ -74,7 +76,7 @@ include 'header.php';
 				<div class="col-lg-3 col-sm-6">
 					<div class="single_member">
 						<div class="author">
-							<img src="img/team/member4.png" alt="">
+							<img src="img/team/member4.jpg" alt="">
 						</div>
 						<div class="author_decs">
 							<div class="social_icons">
@@ -82,9 +84,9 @@ include 'header.php';
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
-							<h4>Lena Keller</h4>
-							<p class="profession">Sr. Faculty Data Science</p>
-							<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price.</p>
+							<h4>Dr. Ashok Ratna Bajracharya</h4>
+							<p class="profession">MBBS, MS Orth, MCh Orth (UK), FICS (USA)</p>
+							<p><b>Speciality:-</b>Orthopedic Surgeon, Spinal Surgery, Musculoskeletal Tumor surgery</p>
 						</div>
 					</div>
 				</div>
