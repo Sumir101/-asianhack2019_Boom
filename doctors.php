@@ -85,7 +85,7 @@ include 'header.php';
 								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
 							<h4>Dr. Ashok Ratna Bajracharya</h4>
-							<p class="profession">MBBS, MS Orth, MCh Orth (UK), FICS (USA)</p>
+							<p class="profession">MBBS, MS Orth,MCh Orth (UK),FICS (USA)</p>
 							<p><b>Speciality:-</b>Orthopedic Surgeon, Spinal Surgery, Musculoskeletal Tumor surgery</p>
 						</div>
 					</div>

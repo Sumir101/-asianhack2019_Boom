@@ -5,7 +5,8 @@ include 'header.php';
 <html>
 <head>
   <title></title>
-  <link rel="stylesheet" type="text/css" href="sc.css">
+  <link rel="stylesheet" type="text/css" href="css/sc.css">
+  <link rel="stylesheet" type="text/css" href="a.css">
 </head>
 <body>
   <div class="container">  
@@ -28,7 +29,7 @@ include 'header.php';
       <input placeholder="Your Phone Number (optional)" type="tel" name="phone" tabindex="3" required>
     </fieldset>
     <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" class="primary-btn text-uppercase">Submit</button>
     </fieldset>
         <a href="login.php">Have an account!</a>
   </form>

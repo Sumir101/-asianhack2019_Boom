@@ -5,7 +5,7 @@ include 'header.php';
 <html>
 <head>
   <title></title>
-  <link rel="stylesheet" type="text/css" href="sc.css">
+  <link rel="stylesheet" type="text/css" href="css/sc.css">
 </head>
 <body>
   <div class="container"> 

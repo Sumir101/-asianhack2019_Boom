@@ -1,0 +1,12 @@
+.hosp_body{
+	height: 200px;
+	width: all;
+	border: 1px solid black;
+}
+.hosp_img{
+	float: right;
+}
+#hosp{
+	height:all;
+	width: 250px;
+	}

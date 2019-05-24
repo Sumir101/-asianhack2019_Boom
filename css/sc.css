@@ -19,7 +19,6 @@ body {
   line-height: 30px;
   color: #8c60ff;
   background: #7e4bff;
-  
 }
 
 .container {
@@ -145,7 +144,4 @@ fieldset {
 
 :-ms-input-placeholder {
   color: #888;
-}
-body{
-  background-color: black;
 }
