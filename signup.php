@@ -9,27 +9,23 @@ include 'header.php';
 </head>
 <body>
   <div class="container">  
-  <form id="contact" action="" method="post">
+  <form action="DBregister.php" method="post">
     <h3>Signup Form</h3>
     Full Name
     <fieldset>
-      <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+      <input placeholder="Your name" type="text" tabindex="1" name="name" required autofocus>
     </fieldset>
     Email
     <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required>
+      <input placeholder="Your Email Address" type="email" name="email" tabindex="2" required>
     </fieldset>
     Password
     <fieldset>
-      <input placeholder="Your Password" type="Password" tabindex="2" required>
+      <input placeholder="Your Password" type="Password" name="password" tabindex="2" required>
     </fieldset>
     Phone Number
     <fieldset>
-      <input placeholder="Your Phone Number (optional)" type="tel" tabindex="3" required>
-    </fieldset>
-    Address
-    <fieldset>
-      <input placeholder="location" type="text" tabindex="4" required>
+      <input placeholder="Your Phone Number (optional)" type="tel" name="phone" tabindex="3" required>
     </fieldset>
     <fieldset>
       <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
