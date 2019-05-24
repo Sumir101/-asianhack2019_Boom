@@ -71,7 +71,7 @@
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
 								 aria-expanded="false">Pages</a>
 								<ul class="dropdown-menu">
-									<li class="nav-item"><a class="nav-link" href="doctors.html">Doctors</a></li>
+									<li class="nav-item"><a class="nav-link" href="doctors.php">Doctors</a></li>
 									<li class="nav-item"><a class="nav-link" href="recentdisease.html">Recent Disease</a></li>
 								</ul>
 							</li>
