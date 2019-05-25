@@ -1,0 +1,13 @@
+.spec_row{
+	height: 150px;
+	width: 250px;
+	border: 1px solid black;
+	padding-left: 10px;
+	background: #f9f9f9;
+	font-size:30px;
+	padding-top: 50px;
+}
+.spec_row:hover{
+	background-color: black;
+	color: white;
+}

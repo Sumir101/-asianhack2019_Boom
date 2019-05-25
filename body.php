@@ -81,7 +81,7 @@
 								It just requires your number and your name, and a password.
 							</p>
 							<div class="feature_btn">
-								<a class="primary-btn text-uppercase" href="login.php">Get Appointment</a>
+								<a class="primary-btn text-uppercase" href="hospitals.php">Get Appointment</a>
 							</div>
 						</div>
 					</div>
