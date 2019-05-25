@@ -21,7 +21,7 @@ include 'header.php';
 			5159272
 			
 		</p>
-		<a class="primary-btn text-uppercase" href="login.php">Get Appointment</a>
+		<a class="primary-btn text-uppercase" href="speciality.php">View Departments</a>
 	</div>
 </div>
 <hr>

@@ -32,6 +32,7 @@ include 'header.php';
 							<p class="profession">MD (Ukrain), MD (Australia)</p>
 							<p><b>Specialities :-</b></p><p>
 							Consultant Dermatologist & Venerologist</p>
+							<p><a class="primary-btn text-uppercase" href="login.php">View Appointment</a></p>
 						</div>
 					</div>
 				</div>
@@ -51,6 +52,7 @@ include 'header.php';
 							<p class="profession"> MBBS, MD</p>
 							<p><b>Specialities :-</b><br>
 							Dermatologist, Venereologist, Leprologist & Dermatosurgeon</p>
+							<p><a class="primary-btn text-uppercase" href="login.php">View Appointment</a></p>
 						</div>
 					</div>
 				</div>
@@ -69,6 +71,7 @@ include 'header.php';
 							<h4>Dr.Binod Bijukachhe</h4>
 							<p class="profession">MBBS, Bangladesh</p>
 							<p> <b>Specialities :-</b>  Orthopedics & Traumatology</p>
+							<p><a class="primary-btn text-uppercase" href="login.php">View Appointment</a></p>
 						</div>
 					</div>
 				</div>
@@ -87,6 +90,7 @@ include 'header.php';
 							<h4>Dr. Ashok Ratna Bajracharya</h4>
 							<p class="profession">MBBS, MS Orth,MCh Orth (UK),FICS (USA)</p>
 							<p><b>Speciality:-</b>Orthopedic Surgeon, Spinal Surgery, Musculoskeletal Tumor surgery</p>
+							<p><a class="primary-btn text-uppercase" href="login.php">View Appointment</a></p>
 						</div>
 					</div>
 				</div>

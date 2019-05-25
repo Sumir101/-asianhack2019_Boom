@@ -7,7 +7,7 @@ include "header.php";
 </head>
 <body>
 <div class="spec_row">
-	<a href=""><div id="spec_right">
+	<a href="doctors.php"><div id="spec_right">
 	
 		Dentistry and Dental Surgery
 	</div></a>

@@ -27,7 +27,7 @@ include 'header.php';
       <input placeholder="Your Password" type="password" id="password" name="password"  tabindex="2" required style="clear: "> 
     </fieldset>
     <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending" >Submit</button>
     </fieldset>
     <a href="signup.php">Don't have account!</a>
 
